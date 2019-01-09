@@ -13,4 +13,6 @@ This repository will hold the financial terms of the day and their definitions a
 1/8: Mutual Fund
  - A mutual fund is an investment vehicle made up of a pool of money collected from many investors for the purpose of investing in securities such as stocks, bonds, money market instruments and other assets. Mutual funds are operated by professional money managers, who allocate the fund's investments and attempt to produce capital gains and/or income for the fund's investors. A mutual fund's portfolio is structured and maintained to match the investment objectives stated in its prospectus.
  
- 
+1/9: Gross Margin
+ - Gross margin is a company's total sales revenue minus its cost of goods sold (COGS), divided by total sales revenue, expressed as a percentage. The gross margin represents the percent of total sales revenue that the company retains after incurring the direct costs associated with producing the goods and services it sells. The higher the percentage, the more the company retains on each dollar of sales, to service its other costs and debt obligations.
+
