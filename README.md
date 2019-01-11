@@ -16,3 +16,10 @@ This repository will hold the financial terms of the day and their definitions a
 1/9: Gross Margin
  - Gross margin is a company's total sales revenue minus its cost of goods sold (COGS), divided by total sales revenue, expressed as a percentage. The gross margin represents the percent of total sales revenue that the company retains after incurring the direct costs associated with producing the goods and services it sells. The higher the percentage, the more the company retains on each dollar of sales, to service its other costs and debt obligations.
 
+1/10: Book Value
+ - An asset's book value is equal to its carrying value on the balance sheet, and companies calculate it netting the asset against its accumulated depreciation. Book value is also the net asset value of a company calculated as total assets minus intangible assets (patents, goodwill) and liabilities. For the initial outlay of an investment, book value may be net or gross of expenses such as trading costs, sales taxes, service charges and so on.
+
+1/11: Short Selling
+ - Short selling is the sale of a security that is not owned by the seller or that the seller has borrowed. Short selling is motivated by the belief that a security's price will decline, enabling it to be bought back at a lower price to make a profit. Short selling may be prompted by speculation, or by the desire to hedge the downside risk of a long position in the same security or a related one. Since the risk of loss on a short sale is theoretically infinite, short selling should only be used by experienced traders, who are familiar with the risks.
+ 
+
