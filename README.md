@@ -22,4 +22,13 @@ This repository will hold the financial terms of the day and their definitions a
 1/11: Short Selling
  - Short selling is the sale of a security that is not owned by the seller or that the seller has borrowed. Short selling is motivated by the belief that a security's price will decline, enabling it to be bought back at a lower price to make a profit. Short selling may be prompted by speculation, or by the desire to hedge the downside risk of a long position in the same security or a related one. Since the risk of loss on a short sale is theoretically infinite, short selling should only be used by experienced traders, who are familiar with the risks.
  
+1/12: Security
+ - A security is a fungible, negotiable financial instrument that holds some type of monetary value. It represents an ownership position in a publicly-traded corporation (via stock), a creditor relationship with a governmental body or a corporation (represented by owning that entity's bond), or rights to ownership as represented by an option.
+ 
+1/13: Income Statement
+ - An income statement is a financial statement that reports a company's financial performance over a specific accounting period. Financial performance is assessed by giving a summary of how the business incurs its revenues and expenses through both operating and non-operating activities. It also shows the net profit or loss incurred over a specific accounting period.
+ 
+1/14: Liquidity
+ - Liquidity describes the degree to which an asset or security can be quickly bought or sold in the market without affecting the asset's price.
+ 
 
