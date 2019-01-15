@@ -31,4 +31,8 @@ This repository will hold the financial terms of the day and their definitions a
 1/14: Liquidity
  - Liquidity describes the degree to which an asset or security can be quickly bought or sold in the market without affecting the asset's price.
  
+1/15: Diversification
+ - Diversification is a risk management technique that mixes a wide variety of investments within a portfolio. The rationale behind this technique contends that a portfolio constructed of different kinds of investments will, on average, yield higher returns and pose a lower risk than any individual investment found within the portfolio.
+
+
 
