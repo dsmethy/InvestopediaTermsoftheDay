@@ -34,5 +34,8 @@ This repository will hold the financial terms of the day and their definitions a
 1/15: Diversification
  - Diversification is a risk management technique that mixes a wide variety of investments within a portfolio. The rationale behind this technique contends that a portfolio constructed of different kinds of investments will, on average, yield higher returns and pose a lower risk than any individual investment found within the portfolio.
 
+1/16: Brexit
+ - Brexit is an abbreviation for "British exit," referring to the UK's decision in a June 23, 2016 referendum to leave the European Union (EU). The vote's result defied expectations and roiled global markets, causing the British pound to fall to its lowest level against the dollar in 30 years. Prime Minister David Cameron, who called the referendum and campaigned for Britain to remain in the EU, resigned the following month. Home Secretary Theresa May replaced him as leader of the Conservative party and as Prime Minister. Following a snap election on June 8, 2017, she remains Prime Minister. The Conservatives have lost their outright majority in Parliament
+ 
 
 
