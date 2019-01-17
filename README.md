@@ -37,5 +37,7 @@ This repository will hold the financial terms of the day and their definitions a
 1/16: Brexit
  - Brexit is an abbreviation for "British exit," referring to the UK's decision in a June 23, 2016 referendum to leave the European Union (EU). The vote's result defied expectations and roiled global markets, causing the British pound to fall to its lowest level against the dollar in 30 years. Prime Minister David Cameron, who called the referendum and campaigned for Britain to remain in the EU, resigned the following month. Home Secretary Theresa May replaced him as leader of the Conservative party and as Prime Minister. Following a snap election on June 8, 2017, she remains Prime Minister. The Conservatives have lost their outright majority in Parliament
  
-
+1/17: Government Shutdown
+ - A government shutdown happens when nonessential government offices can no longer remain open due to lack of funding. The lack of funding usually occurs when there is a delay in the approval of the federal budget for the upcoming fiscal year. The shutdown remains in effect until parties can reach a compromise and a budget bill passes. During a government shutdown, many federally run operations will halt. Some organizations may still stay open by running on cash reserves, but once these funds run out, they will also close. Any office which does not receive funding from Congress would continue to operate during the shutdown...
+ 
 
