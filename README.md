@@ -40,4 +40,7 @@ This repository will hold the financial terms of the day and their definitions a
 1/17: Government Shutdown
  - A government shutdown happens when nonessential government offices can no longer remain open due to lack of funding. The lack of funding usually occurs when there is a delay in the approval of the federal budget for the upcoming fiscal year. The shutdown remains in effect until parties can reach a compromise and a budget bill passes. During a government shutdown, many federally run operations will halt. Some organizations may still stay open by running on cash reserves, but once these funds run out, they will also close. Any office which does not receive funding from Congress would continue to operate during the shutdown...
  
+1/18: Swap
+ - A swap is a derivative contract through which two parties exchange financial instruments. These instruments can be almost anything, but most swaps involve cash flows based on a notional principal amount that both parties agree to. Usually, the principal does not change hands. Each cash flow comprises one leg of the swap. One cash flow is generally fixed while the other is variable, which is based on a benchmark interest rate, floating currency exchange rate, or index price.
+ 
 
