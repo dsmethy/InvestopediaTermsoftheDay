@@ -43,4 +43,19 @@ This repository will hold the financial terms of the day and their definitions a
 1/18: Swap
  - A swap is a derivative contract through which two parties exchange financial instruments. These instruments can be almost anything, but most swaps involve cash flows based on a notional principal amount that both parties agree to. Usually, the principal does not change hands. Each cash flow comprises one leg of the swap. One cash flow is generally fixed while the other is variable, which is based on a benchmark interest rate, floating currency exchange rate, or index price.
  
+1/19: Amortization
+ - Amortization is an accounting technique used to lower the cost value of a finite life or intangible asset incrementally through scheduled charges to income. Amortization is the paying off of debt with a fixed repayment schedule in regular installments over time like with a mortgage or a car loan. It also refers to the spreading out of capital expenses for intangible assets over a specific duration – usually over the asset's useful life –for accounting and tax purposes. Amortization can refer to the paying off of debt, over time, in regular installments of interest and principal adequate enough to repay the loan in full by maturity. Amortization can also mean the deduction of capital expenses over the asset's useful life where it measures the consumption of an intangible asset's value, such as goodwill, a patent or copyright.
+ 
+1/20: Liability
+ - A liability is defined as a company's legal financial debts or obligations that arise during the course of business operations. Liabilities are settled over time through the transfer of economic benefits including money, goods or services. Recorded on the right side of the balance sheet, liabilities include loans, accounts payable, mortgages, deferred revenues and accrued expenses.
+ 
+1/21: Standard Deviation
+ - The standard deviation is a statistic that measures the dispersion of a dataset relative to its mean and is calculated as the square root of the variance. It is calculated as the square root of variance by determining the variation between each data point relative to the mean. If the data points are further from the mean, there is higher deviation within the data set; thus, the more spread out the data, the higher the standard deviation.
+ 
+1/22: Preferred Stock
+ - A preferred stock is a class of ownership in a corporation that has a higher claim on its assets and earnings than common stock. Preferred shares generally have a dividend that must be paid out before dividends to common shareholders, and the shares usually do not carry voting rights.
+ 
+1/23: Annuity
+ - An annuity is a financial product that pays out a fixed stream of payments to an individual, primarily used as an income stream for retirees. Annuities are created and sold by financial institutions, which accept and invest funds from individuals and then, upon annuitization, issue a stream of payments at a later point in time. The period of time when an annuity is being funded and before payouts begin is referred to as the accumulation phase. Once payments commence, the contract is in the annuitization phase.
+ 
 
