@@ -58,4 +58,7 @@ This repository will hold the financial terms of the day and their definitions a
 1/23: Annuity
  - An annuity is a financial product that pays out a fixed stream of payments to an individual, primarily used as an income stream for retirees. Annuities are created and sold by financial institutions, which accept and invest funds from individuals and then, upon annuitization, issue a stream of payments at a later point in time. The period of time when an annuity is being funded and before payouts begin is referred to as the accumulation phase. Once payments commence, the contract is in the annuitization phase.
  
+1/24: Call Option
+ - Call options are an agreement that give the option buyer the right, but not the obligation, to buy a stock, bond, commodity or other instrument at a specified price within a specific time period. The stock, bond, or commodity is called the underlying asset.
+ 
 
