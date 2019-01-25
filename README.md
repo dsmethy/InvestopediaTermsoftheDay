@@ -61,4 +61,7 @@ This repository will hold the financial terms of the day and their definitions a
 1/24: Call Option
  - Call options are an agreement that give the option buyer the right, but not the obligation, to buy a stock, bond, commodity or other instrument at a specified price within a specific time period. The stock, bond, or commodity is called the underlying asset.
  
+1/25: Gross Profit
+ - Gross profit is the profit a company makes after deducting the costs associated with making and selling its products, or the costs associated with providing its services.
+ 
 
