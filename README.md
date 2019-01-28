@@ -64,4 +64,13 @@ This repository will hold the financial terms of the day and their definitions a
 1/25: Gross Profit
  - Gross profit is the profit a company makes after deducting the costs associated with making and selling its products, or the costs associated with providing its services.
  
+1/26: Ratio Analysis
+ - A ratio analysis is a quantitative analysis of information contained in a company’s financial statements. Ratio analysis is used to evaluate various aspects of a company’s operating and financial performance such as its efficiency, liquidity, profitability and solvency.
+
+1/27: Depreciation
+ - Depreciation is an accounting method of allocating the cost of a tangible asset over its useful life and is used to account for declines in value. Businesses depreciate long-term assets for both tax and accounting purposes. For tax purposes, businesses can deduct the cost of the tangible assets they purchase as business expenses; however, businesses must depreciate these assets according to IRS rules about how and when the company can take the deduction.
+ 
+1/28: High Net Worth Individual - HNWI
+ - High net worth individual (HNWI) is a classification used by the financial services industry to denote an individual or a family with liquid assets above a certain figure. Although there is no precise definition of how rich someone must be to fit into this category, high net worth is generally quoted in terms of having liquid assets of a particular number. The exact amount differs by financial institution and region.
+ 
 
