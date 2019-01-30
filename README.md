@@ -73,4 +73,10 @@ This repository will hold the financial terms of the day and their definitions a
 1/28: High Net Worth Individual - HNWI
  - High net worth individual (HNWI) is a classification used by the financial services industry to denote an individual or a family with liquid assets above a certain figure. Although there is no precise definition of how rich someone must be to fit into this category, high net worth is generally quoted in terms of having liquid assets of a particular number. The exact amount differs by financial institution and region.
  
+1/29: Money market
+ - The money market is where financial instruments with high liquidity and very short maturities are traded. It is used by participants as a means for borrowing and lending in the short term, with maturities that usually range from overnight to just under a year. Among the most common money market instruments are eurodollar deposits, negotiable certificates of deposit (CDs), banker's acceptances, U.S. Treasury bills, commercial paper, municipal notes, federal funds and repurchase agreements (repos).
+ 
+1/30: Volatility
+ - Volatility is a statistical measure of the dispersion of returns for a given security or market index. Volatility can either be measured by using the standard deviation or variance between returns from that same security or market index. Commonly, the higher the volatility, the riskier the security.
+ 
 
