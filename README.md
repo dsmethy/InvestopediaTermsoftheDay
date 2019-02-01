@@ -79,4 +79,6 @@ This repository will hold the financial terms of the day and their definitions a
 1/30: Volatility
  - Volatility is a statistical measure of the dispersion of returns for a given security or market index. Volatility can either be measured by using the standard deviation or variance between returns from that same security or market index. Commonly, the higher the volatility, the riskier the security.
  
+1/31: Tax Season
+ - Tax season is the time period between January 1 and April 15 of each year when individual taxpayers traditionally prepare financial statements and reports for the previous year. In the United States, individuals must file their annual tax return by April 15 of the year following the reportable earnings...
 
